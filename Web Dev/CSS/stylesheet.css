@@ -1,0 +1,50 @@
+.title {
+    font-size: 85px;
+    padding-top: 15px;
+    text-decoration: underline;
+}
+
+.HomeName {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 60px;
+    color: black
+}
+
+.nav {
+    padding-top: 10px;
+    font-size: 100px;
+    border-bottom: 3px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+}
+
+#links a {
+    color: white;
+}
+
+.bgnd {
+    background-image: url("/rsc/07182019-leopard-tree-unsplash-featured.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    opacity: 30%;
+}
+
+#logo {
+    padding-left: 50px;
+    font-size: 60px;
+    text-decoration: solid;
+    color: white;
+}
+
+#welcome {
+    height: 100%;
+}
